@@ -1,1 +1,1 @@
-# cordova-plugin-android-openscale-integration
+# OpenscaleIntegration

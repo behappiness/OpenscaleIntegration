@@ -1,0 +1,25 @@
+{
+  "name": "hu.bme.iit.cordova",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "hu.bme.iit.cordova",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behappiness/OpenscaleIntegration.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behappiness/OpenscaleIntegration/issues"
+  },
+  "homepage": "https://github.com/behappiness/OpenscaleIntegration#readme"
+}

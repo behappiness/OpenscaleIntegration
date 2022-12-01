@@ -16,8 +16,8 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Botond Lovász",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/behappiness/OpenscaleIntegration/issues"
   },

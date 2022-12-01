@@ -18,6 +18,9 @@
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml">
             <uses-permission android:name="com.health.openscale.READ_WRITE_DATA" />
+            <queries>
+                <package android:name="com.health.openscale" />
+            </queries>
         </config-file>
         <source-file src="src/android/OpenscaleIntegration.java" target-dir="src/hu/bme/iit/cordova/OpenscaleIntegration" />
     </platform>

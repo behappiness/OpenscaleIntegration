@@ -1,5 +1,9 @@
 var exec = require('cordova/exec');
 
-exports.coolMethod = function (arg0, success, error) {
-    exec(success, error, 'OpenscaleIntegration', 'coolMethod', [arg0]);
+exports.getUsers = function (arg0, success, error) {
+    exec(success, error, 'OpenscaleIntegration', 'getUsers', [arg0]);
+};
+
+exports.getUserMeasurements = function(arg0, success, error) {
+    exec(success, error, 'OpenscaleIntegration', 'getUserMeasurements', [arg0]);
 };
